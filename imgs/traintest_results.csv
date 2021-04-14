@@ -1,0 +1,6 @@
+﻿Model,Train Accuracy,Test Accuracy,Precision,Recall,F1 Score
+RandomForest,0.98793,0.98685,0.98707,0.9869,0.98684
+AdaBoost,1,0.99801,0.99801,0.998,0.99801
+ExtraTrees,0.99889,0.99844,0.99844,0.99844,0.99844
+GradientBoosting,1,0.99985,0.99985,0.99985,0.99985
+XGboost,1,0.99982,0.99982,0.99982,0.99982

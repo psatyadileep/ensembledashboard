@@ -1,0 +1,4 @@
+﻿Ensemble method,Train Accuracy,Test Accuracy,Precision,Recall,F1 Score
+Simple Averaging,0.93,0.93,0.94,0.93,0.93
+Weighted Averaging (Soft Voting),0.984,0.9887,0.98,0.98,0.98
+Weighted Averaging (Hard Voting),0.967,0.967,0.97,0.97,0.97
